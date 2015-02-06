@@ -1,6 +1,6 @@
 {
-  "name": "ref",
-  "description": "Turn Buffer instances into \"pointers\"",
+  "name": "ref-atomshell-paulcbetts",
+  "description": "Turn Buffer instances into \"pointers\". This version is a fork that supports Atom Shell that will hopefully go away in the future.",
   "keywords": [
     "native",
     "buffer",
@@ -17,7 +17,7 @@
     "byte",
     "64"
   ],
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
     "type": "git",
