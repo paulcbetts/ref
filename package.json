@@ -1,5 +1,5 @@
 {
-  "name": "ref-atomshell-paulcbetts",
+  "name": "ref-atom-shell",
   "description": "Turn Buffer instances into \"pointers\". This version is a fork that supports Atom Shell that will hopefully go away in the future.",
   "keywords": [
     "native",
